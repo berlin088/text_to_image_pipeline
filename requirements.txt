@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+diffusers
+transformers
+accelerate
+pillow
+numpy
+requests
+pytest
+httpx
+hydra-core
+iopath
+# Note: git+https://github.com/facebookresearch/segment-anything-2.git must be installed manually in Docker/Setup
